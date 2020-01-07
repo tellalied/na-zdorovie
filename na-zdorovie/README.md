@@ -1,7 +1,7 @@
-# PMA Cry
+# Cheers
 
 
-PMA Cry  (Pattern Matching Analysis Cryptojacking) is a browser extension that focuses on blocking web browser-based cryptocurrency miners all over the web.
+This is thesis product that involved Pattern Matching to Analysis Cryptojacking with browser extension that focuses on blocking web browser-based cryptocurrency miners all over the web.
 
 
 # How it works
